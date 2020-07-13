@@ -1,0 +1,67 @@
+.Token{
+    height: 20%;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.input{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+
+.button{
+    border: 2px solid green;
+    padding: 5px;
+}
+
+.Github{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.repositories{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.n_followers{
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.Repository{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.b_create{
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.Creation{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+}
+
+.create{
+    border: 2px solid black;
+    padding: 5px;
+}
